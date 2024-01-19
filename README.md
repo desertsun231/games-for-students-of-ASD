@@ -1,1 +1,2 @@
-# games-in-progress
+This file contains games free for download for students of ASD. It will not allow you to access the download if your email is not @alpinesd.org.
+Once you are rederected to drive when you click a download link, click the dropdown menu with the file name and download it. Open the folder in your files and double-click the index.html file. This will open a new tab and load the game. That's all you need to know!  (these files will work on a chromebook, they may not work on pc, mac, ect.)
